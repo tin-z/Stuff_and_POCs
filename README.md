@@ -9,6 +9,6 @@
 
 ### Extra
 
- - [libcaca](./poc_libcaca)
- - [lldb](./poc_lldb)
+ - [libcaca](./poc_libcaca) [link](https://github.com/cacalabs/libcaca/issues/67)
+ - [lldb](./poc_lldb) [link](https://github.com/llvm/llvm-project/issues/55222)
 
